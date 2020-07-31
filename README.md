@@ -17,7 +17,7 @@ Web based editor to create Resume in a customizable template with the facility t
 - Sub-points can be added with various bullet styles and adjustable indentation.
 - Script provided to merge multiple pages and compress the PDF.
 
-#### Using the merge & compress script
+#### Using the merge and compress script
 - You must be able to run python file on your system for this.
 - Save the individual pages in PDF format with name ```1.pdf``` , ```2.pdf```
 - Download the ```compress_pdf.py``` file and open it in a text editor.
