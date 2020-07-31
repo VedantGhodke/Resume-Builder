@@ -47,7 +47,7 @@ To create a PR:
 
 Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
-To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
+To send a PR, follow these rules carefully, **otherwise your PR will be closed**:
 
 1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
